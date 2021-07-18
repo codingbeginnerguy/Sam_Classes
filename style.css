@@ -924,6 +924,15 @@ p{
     width:100%;
 }
 
+.footer .credit{
+    font-size: 20px;
+    font-weight: normal;
+    letter-spacing: 1px;
+    color:#fff;
+    border-top: 1px solid #fff5;
+    padding:25px 1px;
+    text-align: center;
+}
 
 
 
